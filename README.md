@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @artur-fag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Claro! Aqui vai uma sugestão de texto de apresentação para o seu GitHub:
 
-<!---
-artur-fag/artur-fag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👋 Olá! Seja bem-vindo(a) ao meu GitHub
+
+Sou desenvolvedor especializado em PHP, Laravel e C#, com foco em criar soluções eficientes, escaláveis e de alta qualidade. Tenho experiência no desenvolvimento de aplicações web, APIs robustas e integrações de sistemas, sempre buscando as melhores práticas de mercado.
+
+ 🚀 Tecnologias que trabalho:
+- Backend: Laravel, Laravel Fortify, ASP.NET Core, .NET Framework, Entity framwork
+- Frontend: Blade, Razor, HTML, CSS, JavaScript, Windos Form
+- Banco de Dados: MySQL, SQL Server
+- Outros: REST APIs, OAuth2, Docker, Git
+📈 O que você vai encontrar aqui:
+- Projetos pessoais
+- Estudos e experimentos com novas tecnologias
+- Contribuições para a comunidade
+✉️ Vamos conversar?
+Estou sempre aberto a novos desafios, projetos e parcerias. Sinta-se à vontade para entrar em contato!
+

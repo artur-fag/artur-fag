@@ -14,6 +14,7 @@ Meu portfólio: https://code-artur.my-style.in
 - Projetos pessoais
 - Estudos e experimentos com novas tecnologias
 - Contribuições para a comunidade
+  
    Vamos conversar?
 Estou sempre aberto a novos desafios, projetos e parcerias. Sinta-se à vontade para entrar em contato!
 

@@ -3,7 +3,7 @@
 
 Sou desenvolvedor especializado em PHP, Laravel e C#, com foco em criar soluções eficientes, escaláveis e de alta qualidade. Tenho experiência no desenvolvimento de aplicações web, APIs robustas e integrações de sistemas, sempre buscando as melhores práticas de mercado.
 
-Meu portifólio: https://code-artur.my-style.in
+Meu portfólio: https://code-artur.my-style.in
 
  🚀 Tecnologias que trabalho:
 - Backend: Laravel, Laravel Fortify, ASP.NET Core, .NET Framework, Entity framwork

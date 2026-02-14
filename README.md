@@ -1,7 +1,7 @@
 
  👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
-Sou desenvolvedor especializado em PHP, Laravel e C#, com foco em criar soluções eficientes, escaláveis e de alta qualidade. Tenho experiência no desenvolvimento de aplicações web, APIs robustas e integrações de sistemas, sempre buscando as melhores práticas de mercado.
+Sou desenvolvedor especializado em PHP, Laravel e C#, .Net e Net Maui, com foco em criar soluções eficientes, escaláveis e de alta qualidade. Tenho experiência no desenvolvimento de aplicações web, APIs robustas e integrações de sistemas, sempre buscando as melhores práticas de mercado.
 
 Meu portfólio: https://code-artur.my-style.in
 
